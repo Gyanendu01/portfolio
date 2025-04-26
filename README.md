@@ -1,7 +1,7 @@
 # dk-js-portfolio-website
-### [Live Site](https://dk-js-portfolio-website.vercel.app/)
+### [Live Site](https://gyanendu01.github.io/portfolio/)
 
-(https://www.loom.com/share/331501de6f7848168eac4b28b15dcd4c?sid=c2515441-a9f1-4190-8080-c521044c9c76)
+[demo](https://www.loom.com/share/331501de6f7848168eac4b28b15dcd4c?sid=c2515441-a9f1-4190-8080-c521044c9c76)
 
 ## About
 * 👋 Hi, I’m Gyanendu Boitai 

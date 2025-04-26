@@ -1,15 +1,15 @@
 # dk-js-portfolio-website
 ### [Live Site](https://dk-js-portfolio-website.vercel.app/)
 
-https://user-images.githubusercontent.com/30509335/229765023-376c0127-713b-43f0-95dc-1acbe28a86a5.mov
+(https://www.loom.com/share/331501de6f7848168eac4b28b15dcd4c?sid=c2515441-a9f1-4190-8080-c521044c9c76)
 
 ## About
 * 👋 Hi, I’m Gyanendu Boitai 
-* 😎 I’m a web developer 
+* 😎 I’m a software developer 
 * 💻 This is a personal portfolio website made with HTML, CSS and JS.
 * 🌍 Website:  https://dk-js-portfolio-website.vercel.app/
 * 💞️ I’m looking to collaborate on JS projects 
-* 📫 How to reach me chidike.henry@gmail.com
+* 📫 How to reach me gyanenduboitai2004@gmail.com
 
 
 ## Technologies Used

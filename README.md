@@ -1,7 +1,8 @@
 # dk-js-portfolio-website
 ### [Live Site](https://gyanendu01.github.io/portfolio/)
 
-[demo](https://www.loom.com/share/331501de6f7848168eac4b28b15dcd4c?sid=c2515441-a9f1-4190-8080-c521044c9c76)
+[Watch the Preview](https://www.loom.com/share/331501de6f7848168eac4b28b15dcd4c?sid=c1f25e37-0b45-4109-8103-644ae9fd3a77)
+
 
 ## About
 * 👋 Hi, I’m Gyanendu Boitai 

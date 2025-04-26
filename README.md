@@ -1,4 +1,4 @@
-# dk-js-portfolio-website
+# GB-js-portfolio-website
 ### [Live Site](https://gyanendu01.github.io/portfolio/)
 
 ## About
